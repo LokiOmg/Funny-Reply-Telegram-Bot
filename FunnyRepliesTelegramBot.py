@@ -1,7 +1,6 @@
 ﻿#Funny replies telegram bot
 from datetime import datetime
 import logging
-from tkinter import ALL
 from module.responce import dict_quote, dict_jokes
 from module.stickers import dict_stik, dict_gif
 from module.confih import TOKEN
