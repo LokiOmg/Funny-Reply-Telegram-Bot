@@ -1,4 +1,4 @@
-# Список ID стикеров
+# РЎРїРёСЃРѕРє ID СЃС‚РёРєРµСЂРѕРІ
 dict_stik = {
 	"CAADAgADaQEAAklHHQABBEGA16tOb4YC",
 	"CAADAgADawEAAklHHQABeErgzhVrOsMC",
@@ -21,7 +21,7 @@ dict_stik = {
 	"CAACAgIAAxkBAAIK0mK0dwHqf1f7ik8yJDggtsJPc64qAAIEAAOgHtYKnAt8WTRK5ZopBA"
 	}
 
-# Список ссылок на гифки
+# РЎРїРёСЃРѕРє СЃСЃС‹Р»РѕРє РЅР° РіРёС„РєРё
 dict_gif = {
 	"https://media.giphy.com/media/3FsfUkKs9DEcw/giphy.gif",
 	"https://media.giphy.com/media/egjCAYphmLmrm/giphy.gif",
